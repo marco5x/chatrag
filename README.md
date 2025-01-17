@@ -20,8 +20,8 @@ A Next.js application that creates an AI-powered chatbot from your PDF documents
 - [LangChain](https://js.langchain.com/)
 - [Pinecone](https://www.pinecone.io/)
 - [OpenAI](https://openai.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-
+- [Tailwind CSS](https://tailwindcss.com/).
+- [Uploadthing](https://uploadthing.com)/)
 
 
 ## Setting (.env)
